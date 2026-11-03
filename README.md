@@ -1,3 +1,4 @@
+🚗 [English](README.md) | [日本語](README_ja.md) 🚗
 # ACR Recce Helper Manual
 
 This tool lets you register "memos" at positions along a stage in Assetto Corsa Rally (ACR). When you pass a registered position, the memo is shown on screen and read aloud.
