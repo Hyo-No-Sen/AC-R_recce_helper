@@ -1,3 +1,4 @@
+🚗 [English](README.md) | [日本語](README_ja.md) 🚗
 # ACRレッキ補助ツール 説明書
 
 Assetto Corsa Rally(ACR)のコース上の位置に「メモ」を登録し、その地点を通過したときに、画面表示と音声で知らせるツールです。
